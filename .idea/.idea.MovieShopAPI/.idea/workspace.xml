@@ -9,7 +9,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c6c6da84-549a-4ede-89dd-14af84e3f7b6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieShopAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MovieShopAPI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieShopAPI/Controllers/MoviesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MovieShopAPI/Controllers/MoviesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieShopAPI/Controllers/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MovieShopAPI/Controllers/AccountController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieShopAPI/MovieShopAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MovieShopAPI/MovieShopAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieShopAPI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MovieShopAPI/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +115,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647390392272</updated>
-      <workItem from="1647390395504" duration="4932000" />
+      <workItem from="1647390395504" duration="4947000" />
+      <workItem from="1647455535741" duration="2746000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1647392724869</created>
@@ -136,14 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647394609892</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Current API options">
+      <created>1647395376028</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647395376028</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -157,11 +167,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="removed WeatherForecast.cs" />
     <MESSAGE value="new changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="new changes" />
+    <MESSAGE value="Current API options" />
+    <option name="LAST_COMMIT_MESSAGE" value="Current API options" />
   </component>
 </project>
