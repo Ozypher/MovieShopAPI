@@ -11,7 +11,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers" />
+      <ProjectReference Include="..\..\MovieApp\ApplicationCore\ApplicationCore.csproj" />
+      <ProjectReference Include="..\..\MovieApp\Infrastructure\Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>
