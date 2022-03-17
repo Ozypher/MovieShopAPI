@@ -8,10 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6c6da84-549a-4ede-89dd-14af84e3f7b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MovieShopAPI/Controllers/AdminController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovieShopAPI/Controllers/UserController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MovieShopAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MovieShopAPI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieShopAPI/Controllers/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MovieShopAPI/Controllers/AccountController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieShopAPI/MovieShopAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MovieShopAPI/MovieShopAPI.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieShopAPI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MovieShopAPI/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieShopAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MovieShopAPI/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -116,7 +116,8 @@
       <option name="presentableId" value="Default" />
       <updated>1647390392272</updated>
       <workItem from="1647390395504" duration="4947000" />
-      <workItem from="1647455535741" duration="2746000" />
+      <workItem from="1647455535741" duration="4235000" />
+      <workItem from="1647491339607" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1647392724869</created>
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647395376028</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="token integration">
+      <created>1647458320603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647458320603</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +180,7 @@
     <MESSAGE value="removed WeatherForecast.cs" />
     <MESSAGE value="new changes" />
     <MESSAGE value="Current API options" />
-    <option name="LAST_COMMIT_MESSAGE" value="Current API options" />
+    <MESSAGE value="token integration" />
+    <option name="LAST_COMMIT_MESSAGE" value="token integration" />
   </component>
 </project>
