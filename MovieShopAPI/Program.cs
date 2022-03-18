@@ -67,5 +67,9 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
-
+app.UseCors(policyBuilder =>
+{
+    policyBuilder.WithOrigins(app.Configuration.GetValue<string>("clientUrl")).AllowCredentials().AllowAnyMethod()
+        .AllowAnyHeader();
+});
 app.Run();
